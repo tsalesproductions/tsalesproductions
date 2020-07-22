@@ -7,7 +7,7 @@
 ```javascript
 const tsalesproductions = {
     code: ['PHP', 'HTML', 'CSS', 'Javascript'],
-    favouriteLanguage: ['PHP'],
+    favoriteLanguage: ['PHP'],
     learning: ['Node.js'],
     tools: ['Discord.js', 'Node.js', 'MySQL', 'SQL Server']
 }
