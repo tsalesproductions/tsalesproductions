@@ -12,5 +12,6 @@ const tsalesproductions = {
     learning: ['Node.js'],
     database: ['MySQL', 'SQL Server', 'SQLite'],
     tools: ['Discord.js', 'Node.js'],
+    eCommerce: ['Loja Integrada', 'Xtech', 'Vtex'],
     ide: ['Visual Studio Code']
 }
