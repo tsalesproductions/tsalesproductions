@@ -19,9 +19,9 @@
 const tsalesproductions = {
     languages: ['PHP', 'HTML', 'CSS', 'Javascript'],
     favoriteLanguage: ['PHP'],
-    learning: ['Node.js'],
+    learning: ['NextJs'],
     database: ['MySQL', 'SQL Server', 'SQLite'],
-    tools: ['Discord.js', 'Node.js'],
+    tools: ['Discord.js', 'Node.js', 'NextJs'],
     eCommerce: ['Loja Integrada', 'Xtech', 'Vtex'],
     ide: ['Visual Studio Code']
 }
