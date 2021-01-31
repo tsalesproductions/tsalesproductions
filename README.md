@@ -7,11 +7,11 @@
 
 ### 💻 Vídeos Recentes
 <!-- YOUTUBE:START -->
+- [[PHP] - Implementando um cpanel e trocando ideia](https://www.youtube.com/watch?v=wbQ0AuYk5W0)
 - [[PHP] - Primeira live do ano - Testando QRCode](https://www.youtube.com/watch?v=liYPFRefq9Q)
 - [Testando repositório QrCode Pix PHP](https://www.youtube.com/watch?v=A9TBWOLxI1M)
 - [Estudando nextJs](https://www.youtube.com/watch?v=_ZfMF1VswR4)
 - [Criando um tema Black Friday para Loja Integrada #4](https://www.youtube.com/watch?v=0FYmGJJmCaA)
-- [Criando um tema Black Friday para Loja Integrada #3](https://www.youtube.com/watch?v=PAsdOsMf-FQ)
 <!-- YOUTUBE:END -->
 
 ### Conhecimento ⚡
