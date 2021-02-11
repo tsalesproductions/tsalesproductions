@@ -7,7 +7,7 @@
 
 ### 💻 Vídeos Recentes
 <!-- YOUTUBE:START -->
-- [Criando um menu mobile para joga integrada](https://www.youtube.com/watch?v=SDE8vM4FWUQ)
+- [Criando um menu mobile para Loja Integrada](https://www.youtube.com/watch?v=SDE8vM4FWUQ)
 - [[PHP] - Implementando um cpanel e trocando ideia](https://www.youtube.com/watch?v=wbQ0AuYk5W0)
 - [[PHP] - Primeira live do ano - Testando QRCode](https://www.youtube.com/watch?v=liYPFRefq9Q)
 - [Testando repositório QrCode Pix PHP](https://www.youtube.com/watch?v=A9TBWOLxI1M)
