@@ -22,7 +22,7 @@ const tsalesproductions = {
     learning: ['NextJs'],
     database: ['MySQL', 'SQL Server', 'SQLite'],
     tools: ['Discord.js', 'Node.js', 'NextJs'],
-    eCommerce: ['Loja Integrada', 'Xtech', 'Vtex'],
+    eCommerce: ['Loja Integrada', 'Vtex', 'Tray'],
     ide: ['Visual Studio Code']
 }
 
