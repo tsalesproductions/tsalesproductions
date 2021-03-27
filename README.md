@@ -7,8 +7,8 @@
 
 ### 💻 Vídeos Recentes
 <!-- YOUTUBE:START -->
-- [Finalizando um tema para Loja Integrada](https://www.youtube.com/watch?v=3XlVEqgAoZE)
 - [Finalizando um tema para Loja Integrada](https://www.youtube.com/watch?v=aWGJ5-Wax0U)
+- [Finalizando um tema para Loja Integrada](https://www.youtube.com/watch?v=3XlVEqgAoZE)
 - [Criando uma função para Loja Integrada](https://www.youtube.com/watch?v=JtrLbtZDBD0)
 - [Criando um menu mobile para Loja Integrada](https://www.youtube.com/watch?v=SDE8vM4FWUQ)
 - [[PHP] - Implementando um cpanel e trocando ideia](https://www.youtube.com/watch?v=wbQ0AuYk5W0)
