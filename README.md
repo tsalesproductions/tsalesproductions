@@ -19,10 +19,10 @@
 const tsalesproductions = {
     languages: ['PHP', 'HTML', 'CSS', 'Javascript'],
     favoriteLanguage: ['PHP'],
-    learning: ['NextJs'],
+    learning: ['Adonisjs'],
     database: ['MySQL', 'SQL Server', 'SQLite'],
-    tools: ['Discord.js', 'Node.js', 'NextJs'],
-    eCommerce: ['Loja Integrada', 'Vtex', 'Tray'],
+    tools: ['Discord.js', 'Node.js', 'NextJs', 'AdonisJs'],
+    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop'],
     ide: ['Visual Studio Code']
 }
 
