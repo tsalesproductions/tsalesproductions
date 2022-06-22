@@ -15,7 +15,7 @@ const tsalesproductions = {
 
 
 <a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayanthbabu123&theme=radical&hide=glsl,python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsalesproductions&theme=radical&hide=glsl,python" />
 </a>
 
 
