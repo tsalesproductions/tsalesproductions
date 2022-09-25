@@ -4,7 +4,7 @@
 const tsalesproductions = {
     languages: ['PHP', 'HTML', 'CSS', 'Javascript'],
     favoriteLanguage: ['Javascript'],
-    learning: ['SCSS', 'Vuex'],
+    learning: ['SASS', 'Vuex'],
     database: ['MySQL', 'SQL Server', 'SQLite'],
     tools: ['Discord.js', 'Node.js', 'NextJs', 'AdonisJs'],
     eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop'],
