@@ -4,10 +4,10 @@
 const tsalesproductions = {
     languages: ['PHP', 'HTML', 'CSS', 'Javascript'],
     favoriteLanguage: ['Javascript'],
-    learning: ['SASS', 'Vuex'],
+    learning: [],
     database: ['MySQL', 'SQL Server', 'SQLite'],
     tools: ['Discord.js', 'Node.js', 'NextJs', 'AdonisJs'],
-    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop'],
+    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce'],
     ide: ['Visual Studio Code']
 }
 ```
