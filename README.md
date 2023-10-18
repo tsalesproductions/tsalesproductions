@@ -2,15 +2,22 @@
 
 ```javascript
 const tsalesproductions = {
-    languages: ['PHP', 'HTML', 'CSS', 'Javascript'],
+    languages: ['PHP', 'HTML', 'CSS', 'Javascript', 'Typescript'],
     favoriteLanguage: ['Javascript'],
     learning: [],
     database: ['MySQL', 'SQL Server', 'SQLite'],
     tools: ['Discord.js', 'Node.js', 'NextJs', 'AdonisJs'],
-    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce'],
+    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce', 'Deco'],
     ide: ['Visual Studio Code']
 }
 ```
+
+### Projetos e SaaS 
+- [Sales. Dev - EUGÊNCIA DEV](https://salescode.dev/)
+- [Loja Express - Loja rápida a preço acessível](https://lojaexpress.salescode.dev/)
+- [App do E-commerce - Aplicações para impulsinar lojas](https://app.appdoecommerce.com.br/)
+- [Tema Personalizado - Temas personalizados para Loja Integrada](https://dev.temapersonalizado.com.br/)
+- [Link Carrinho - Geração de carrinhos para E-commerce](https://linkcarrinho.com.br/)
 
 
 
