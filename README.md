@@ -19,7 +19,7 @@ const tsalesproductions = {
 - [Tema Personalizado - Temas personalizados para Loja Integrada](https://dev.temapersonalizado.com.br/)
 - [Link Carrinho - Geração de carrinhos para E-commerce](https://linkcarrinho.com.br/)
 
-
+-------
 
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsalesproductions&theme=radical&hide=glsl,python" />
