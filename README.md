@@ -13,11 +13,11 @@ const tsalesproductions = {
 ```
 
 ### Projetos e SaaS 
-- [Sales. Dev - EUGÊNCIA DEV](https://salescode.dev/)
-- [Loja Express - Loja rápida a preço acessível](https://lojaexpress.salescode.dev/)
-- [App do E-commerce - Aplicações para impulsinar lojas](https://app.appdoecommerce.com.br/)
-- [Tema Personalizado - Temas personalizados para Loja Integrada](https://dev.temapersonalizado.com.br/)
-- [Link Carrinho - Geração de carrinhos para E-commerce](https://linkcarrinho.com.br/)
+- [Sales. Dev - EUGÊNCIA DEV](https://salescode.dev/) - HTML - CSS - JS - PWA
+- [Loja Express - Loja rápida a preço acessível](https://lojaexpress.salescode.dev/) - HTML - CSS - JS
+- [App do E-commerce - Aplicações para impulsinar lojas](https://app.appdoecommerce.com.br/) ADONISJS - TYPESCRIPT - JS 
+- [Tema Personalizado - Temas personalizados para Loja Integrada](https://dev.temapersonalizado.com.br/) NODE - GULP
+- [Link Carrinho - Geração de carrinhos para E-commerce](https://linkcarrinho.com.br/) - ADONISJS - TYPESCRIPT - JS
 
 -------
 
