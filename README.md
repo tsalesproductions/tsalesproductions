@@ -5,9 +5,9 @@ const tsalesproductions = {
     languages: ['PHP', 'HTML', 'CSS', 'Javascript', 'Typescript'],
     favoriteLanguage: ['Javascript'],
     learning: [],
-    database: ['MySQL', 'SQL Server', 'SQLite'],
+    database: ['MySQL', 'SQL Server', 'SQLite', 'PGSQL', 'Supabase'],
     tools: ['Discord.js', 'Node.js', 'NextJs', 'AdonisJs'],
-    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce', 'Deco'],
+    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce', 'Deco', 'Fbits'],
     ide: ['Visual Studio Code']
 }
 ```
