@@ -1,65 +1,75 @@
-# Thiago Sales ⚡ Web Developer 💻
+# Thiago Sales | Full Stack Developer & Technology Lead
 
-![Profile Views](https://komarev.com/ghpvc/?username=tsalesproductions&color=blueviolet)
-![GitHub followers](https://img.shields.io/github/followers/tsalesproductions?style=social)
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCXKs5lft9fL3C53U5S-jmIg?style=social)
+[![Profile Views](https://komarev.com/ghpvc/?username=tsalesproductions&color=64748b&style=flat)](https://github.com/tsalesproductions)
+[![GitHub followers](https://img.shields.io/github/followers/tsalesproductions?style=flat&color=64748b)](https://github.com/tsalesproductions?tab=followers)
 
----
+Desenvolvedor Full Stack com mais de **5 anos de experiência profissional** e mais de **10 anos de experiência prática em programação**.
 
-💬 **Sou Desenvolvedor Full Stack** com mais de **5 anos de experiência profissional** e mais de **10 anos de prática em programação**, atuando com foco em **performance, escalabilidade e geração de valor real para os negócios**.  
+Atuo no desenvolvimento de software, arquitetura de soluções e evolução de produtos digitais, combinando engenharia de software, integrações e automações para resolver desafios reais de negócio.
 
-Tenho domínio em **JavaScript, TypeScript, Node.js, AdonisJS, React, PHP, HTML5, CSS3 e SCSS**, além de sólida experiência com **SQL, jQuery, Bootstrap, Preact e integrações via APIs (JSON/REST)**.  
+Tenho experiência sólida no ecossistema de **E-commerce**, desenvolvendo plataformas, aplicações personalizadas, integrações com serviços externos e ferramentas que otimizam operações comerciais.
 
-Sou **especialista em E-commerce**, com profundo conhecimento nas principais plataformas do mercado — **Shopify, VTEX, Tray, Nuvemshop, Loja Integrada, Deco, Megazord Wbuy, Fbits e WooCommerce**.  
-
-Atualmente, desenvolvo **lojas virtuais completas, sistemas personalizados e automações** para empresas de diversos segmentos.  
-Paralelamente, compartilho conhecimento produzindo **conteúdo sobre programação no YouTube**.  
+Atualmente, também atuo na liderança tecnológica, participando de decisões de arquitetura, definição de soluções, desenvolvimento de sistemas e evolução da infraestrutura e dos processos digitais.
 
 ---
 
-## 🧠 Stack e Tecnologias
+## Tecnologias e ferramentas
 
-```javascript
-const tsalesproductions = {
-    languages: ['PHP', 'HTML', 'CSS', 'Javascript', 'Typescript'],
-    favoriteLanguage: ['Javascript'],
-    learning: ['NestJS', 'React', 'TailwindCSS'],
-    database: ['MySQL', 'SQL Server', 'SQLite', 'PGSQL', 'Supabase'],
-    tools: ['Docker', 'Git', 'Discord.js', 'Node.js', 'NextJs', 'AdonisJs', 'Gulp', 'Webpack'],
-    eCommerce: ['Loja Integrada', 'Vtex', 'Tray', 'Shopify', 'Nuvemshop', 'Dooca', 'Wbuy', 'Well Commerce', 'Deco', 'Fbits'],
-    ide: ['Visual Studio Code', 'PhpStorm']
-}
-```
+**Linguagens e desenvolvimento**
+- JavaScript, TypeScript, PHP, HTML5, CSS3 e SCSS
+- Node.js, AdonisJS, React e Next.js
+- APIs REST, integrações e aplicações web
 
----
+**Banco de dados e infraestrutura**
+- MySQL, PostgreSQL, SQL Server e SQLite
+- Supabase
+- Docker, Linux e Nginx
+- Git, GitHub Actions e CI/CD
 
-## 🚀 Projetos & SaaS
+**E-commerce e integrações**
+- Shopify, VTEX, Tray e Nuvemshop
+- Loja Integrada, Deco, Wbuy e Fbits
+- WooCommerce
+- Integrações com ERPs, gateways de pagamento, marketplaces e serviços externos
 
-| Projeto | Stack | Descrição |
-|----------|--------|-----------|
-| [Sales.Dev](https://salescode.dev/) | HTML, CSS, JS, PWA | Portal com foco em performance e responsividade |
-| [Loja Express](https://lojaexpress.salescode.dev/) | HTML, CSS, JS | Criação rápida de lojas a baixo custo |
-| [App do E-commerce](https://app.appdoecommerce.com.br/) | AdonisJS, TypeScript, JS | Aplicações para impulsionar lojas virtuais |
-| [Tema Personalizado](https://dev.temapersonalizado.com.br/) | Node, Gulp | Temas personalizados para Loja Integrada |
-| [Link Carrinho](https://linkcarrinho.com.br/) | AdonisJS, TypeScript, JS | Geração de carrinhos para E-commerce |
+**Automação e produtividade**
+- n8n
+- Inteligência Artificial aplicada a processos
+- Automação de fluxos e integrações entre sistemas
 
 ---
 
-## 📊 GitHub Stats
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tsalesproductions&theme=dark&locale=pt_BR&short_numbers=true&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" /></a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsalesproductions&theme=radical&hide=glsl,python" />
-</a>
+## Projetos e produtos
 
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tsalesproductions&show_icons=true&theme=radical" />
-</a>
+| Projeto | Tecnologias | Descrição |
+|---|---|---|
+| [SalesCode](https://salescode.dev/) | JavaScript, HTML, CSS, PWA | Desenvolvimento de soluções digitais e projetos de E-commerce. |
+| [Wallet Commerce](https://walletcommerce.com.br/) | Node.js, AdonisJS, TypeScript | Plataforma SaaS de cashback e fidelização para lojas virtuais. |
+| [App do E-commerce](https://app.appdoecommerce.com.br/) | AdonisJS, TypeScript, JavaScript | Aplicações e funcionalidades para expansão do ecossistema de E-commerce. |
+| [Link Carrinho](https://linkcarrinho.com.br/) | AdonisJS, TypeScript | Solução para geração e compartilhamento de carrinhos de compra. |
+| [Loja Express](https://lojaexpress.salescode.dev/) | HTML, CSS, JavaScript | Solução para implantação simplificada de lojas virtuais. |
+| [Tema Personalizado](https://dev.temapersonalizado.com.br/) | Node.js, Gulp, JavaScript | Desenvolvimento e personalização de temas para E-commerce. |
 
 ---
 
-## 🎬 Vídeos Recentes
+## GitHub Analytics
 
-📺 **YouTube:** [youtube.com/@tsalesproductions](https://www.youtube.com/@tsalesproductions)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tsalesproductions&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsalesproductions&layout=compact&theme=transparent&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=tsalesproductions&theme=transparent&hide_border=true&locale=pt_BR&short_numbers=true" />
+</p>
+
+---
+
+## Conteúdo técnico
+
+Compartilho conhecimentos sobre desenvolvimento de software, programação e tecnologias para E-commerce no meu canal do YouTube.
+
+**YouTube:** [@tsalesproductions](https://www.youtube.com/@tsalesproductions)
 
 <!-- YOUTUBE:START -->
 - [[DEV - PHP] - Recebendo via PIX - MERCADO PAGO SDK](https://www.youtube.com/watch?v=qJibfYeOP_M)
@@ -71,6 +81,20 @@ const tsalesproductions = {
 
 ---
 
-💼 **Atualmente:** Head of Technology @ MeuGameUsado  
-🧩 **Anteriormente:** Full Stack Dev @ Simples Inovação, E-commerce Dev @ Loja do E-commerce  
-🌎 **Localização:** Araucária - PR (Remoto / Híbrido)
+## Atuação profissional
+
+**Head of Technology — MeuGameUsado / ShopB**
+
+Responsável pela evolução tecnológica dos produtos e operações digitais, envolvendo arquitetura de software, desenvolvimento de sistemas, integrações, automações e soluções com inteligência artificial.
+
+**Experiências anteriores**
+- Full Stack Developer — Simples Inovação
+- E-commerce Developer — Loja do E-commerce
+
+---
+
+<p align="center">
+  <a href="https://github.com/tsalesproductions">GitHub</a> ·
+  <a href="https://www.youtube.com/@tsalesproductions">YouTube</a> ·
+  <a href="https://salescode.dev/">SalesCode</a>
+</p>
